@@ -1,5 +1,4 @@
-!
-function() {
+!function() {
     var e = /([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,
     r = window.location.href,
     t = document.referrer;
